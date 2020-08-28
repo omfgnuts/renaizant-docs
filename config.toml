@@ -144,7 +144,7 @@ yes = 'Glad to hear it! Please <a href="https://github.com/omfgnuts/renaizant-do
 no = 'Sorry to hear that. We want our docs to be the best! Please <a href="https://github.com/omfgnuts/renaizant-docs/issues/new">tell us how we can improve, really!</a>.'
 
 # Adds a reading time to the top of each doc.
-# If you want this feature, but occasionally need to remove the Reading time from a single page, 
+# If you want this feature, but occasionally need to remove the Reading time from a single page,
 # add "hide_readingtime: true" to the page's front matter
 [params.ui.readingtime]
 enable = false
@@ -152,8 +152,8 @@ enable = false
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-	name = "Email us!"
-	url = "mailto:sales@renaizant.com
+	name = "Email"
+	url = "sales@renaizant.com"
 	icon = "fa fa-envelope"
         desc = "Discussion and help from your fellow users"
 [[params.links.user]]
