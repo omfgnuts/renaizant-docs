@@ -9,16 +9,13 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+This documentation is work in progress, meaning you might stumble upon some incomplete documentation or other issues. Please, let us know how we can improve, we really want to.
+
+At the end of each document you will find "Feedback" section, from there you can let us know what's wrong.
 {{% /pageinfo %}}
 
+Renaizant is a product focused on owners and managers of organizations that want to be able to get an instant overview of personnel activities related to their involvement, performance, and priorities.
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+We're building and improving Renaizant as an understandable and easily approachable tool that is user-friendly and intuitive, but every user is different, and knowledge background also varies. We know from our experience that learning and mastering new tools can still be frustrating and challenging.
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
-
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
-
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
-
-
+The knowledge base serves as a starting point for newcomers, and also contains various useful information whether you are looking for specific details, instructions, or solely in need of an overall table of contents of Renaizant's features.
