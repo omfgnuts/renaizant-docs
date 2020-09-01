@@ -30,13 +30,19 @@ Select the "Finish" button.
 
 Now tell us what problem you want to solve using Renaizant and we'll show you which features will help you the most. For best results, select from 1 to 3 issues you want to solve and select the "Start tour" button. Continue through the tour until the end and select the "Get started" button to go to your organization.
 
+{{< figure src="/images/general/onboarding/image1.gif" caption="Adding company and specifying primary information">}}
+
 ## Step 2: Create Career Path
 
 The Career Path is the place to track your organization's and employee's growth. [Learn more about the Career Path feature](https://renaizant.zendesk.com/hc/en-us/articles/360012584959) and [how to configure it](https://renaizant.zendesk.com/hc/en-us/articles/360012272360-Career-Path-Create-and-Edit-Admin-Mode-).
 
+{{< figure src="/images/general/onboarding/image6.png" caption="Creating career path">}}
+
 ## Step 3: Create Organization Chart
 
 The Organization chart shows the internal structure of your organization. At this stage, you need to [create chart and present your company's departments](https://renaizant.zendesk.com/hc/en-us/articles/360013577179). Then, once you import users to Renaizant (step 4 of this guide), you can go back to the Organization chart and assign departments' leads and members. See the ["How to edit department after initial Organization chart set-up"](https://renaizant.zendesk.com/hc/en-us/articles/360013577179) section in our guide to help with this.
+
+{{< figure src="/images/general/onboarding/image2.png" caption="Creating organization chart">}}
 
 ## Step 4: Set Up Integrations & Import Users
 
@@ -49,6 +55,8 @@ Set up integration with Slack:
 1. Go to the menu > Administration > Integrations.
 2. Turn on the toggle button near the Slack icon.
 3. Then, you'll see the Slack integration settings—type in the Slack workspace URL, sign in to your Slack account, allow Renaizant access to your Slack workspace, and the job is done!
+
+{{< figure src="/images/general/onboarding/image5.gif" caption="Creating organization chart">}}
 
 Integration with Slack will further help you import users and send them various notifications.
 
@@ -80,6 +88,8 @@ With the multi-tool menu, you can also assign team or department, and verify, de
 - Pick the job family and job title in the sidebar menu on the right.
 - Save the changes.
 
+{{< figure src="/images/general/onboarding/image4.gif" caption="Creating organization chart">}}
+
 {{% alert title="Note" color="warning" %}}
 If you don't assign jobs to employees by yourself, they can do this when they first log in to the company. Please make sure to double-check the Users table from time to time and validate users' changes with the "Verify" button.
 {{% /alert %}}
@@ -88,8 +98,8 @@ If you don't assign jobs to employees by yourself, they can do this when they fi
 
 Now that you've added information about company, infrastructure, jobs, and users, and integrated third-party services to speed up your work, you are now presented with new opportunities:
 
-- Start Feedback, Objectives and Key Results, and Skill Assessment cycles;
-- Create Mentorship pairs and Teams;
-- Set up 1-on-1 meetings.
+- Start [Feedback](https://renaizant.zendesk.com/hc/en-us/articles/360006879380-General-360%C2%BA-Feedback-Information), Objectives and Key Results, and [Skill Assessment](https://renaizant.zendesk.com/hc/en-us/articles/360012695200-General-Skill-Assessment-Information) cycles;
+- Create [Mentorship pairs](https://renaizant.zendesk.com/hc/en-us/articles/360014422180-Mentorship-Admin-Mode-) and [Teams](https://renaizant.zendesk.com/hc/en-us/articles/360011815239-Teams-How-to-Create-Edit-or-Disband-a-Team-Admin-Mode-);
+- Set up [1-on-1 meetings](https://renaizant.zendesk.com/hc/en-us/articles/360011522159-General-1-on-1-Meetings-Information).
 
 We wish you good luck with your journey
