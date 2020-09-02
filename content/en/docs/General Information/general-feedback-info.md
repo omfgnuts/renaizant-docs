@@ -20,7 +20,7 @@ Tendencies to ditch the traditional manager-employee performance review in favor
 
 Renaizant's motto is «simplify what can be simplified». All you need to do to perform a successful 360º is to set a milestone, write down the questionnaire, and Renaizant will do the rest. Renaizant nudges employees when it's time to pick reviewers, it lets everyone know how, and specifically when to give feedback and much, much more. The general UI is as straightforward as any social network, such as Twitter or Facebook!
 
-{{< glossary_tooltip text="cluster" term_id="cluster" >}}
+{{< glossary_tooltip term_id="cluster" length="all" >}}
 
 As for **Admins** and **Managers**, there is an informative overview dashboard, where they see the progress across the entire company and ability to poke those who are running late.
 
